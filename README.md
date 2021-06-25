@@ -1,3 +1,11 @@
+# App to try out fly.io
+
+Based on the Fly.io [HelloElixir app](https://fly.io/docs/getting-started/elixir/) but without DB/Ecto and Webpack.
+
+```
+mix phx.new --no-ecto --no-webpack test
+```
+
 # Test
 
 To start your Phoenix server:
