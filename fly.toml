@@ -1,6 +1,6 @@
-# fly.toml file generated for nameless-bird-9245 on 2021-06-25T18:02:38+05:30
+# fly.toml file generated for quiet-cherry-4788 on 2021-06-25T19:38:28+05:30
 
-app = "nameless-bird-9245"
+app = "quiet-cherry-4788"
 
 kill_signal = "SIGTERM"
 kill_timeout = 5
